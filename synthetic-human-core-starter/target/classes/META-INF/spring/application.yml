@@ -1,0 +1,30 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health, metrics, prometheus  
+      base-path: /actuator  
+  metrics:
+    export:
+      prometheus:
+        metrics:
+          export:
+            enabled: true 
+    tags:
+      application: bishop-prototype 
+    distribution:
+      percentiles-histogram:
+        http.server.requests: true  
+
+weyland:
+  audit:
+    kafka:
+      topic: android-audit-log
+      enabled: false  # Отключаем Kafka

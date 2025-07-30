@@ -1,0 +1,16 @@
+c:\Users\mihan\Desktop\t1_dz\starter\synthetic-human-core-starter\src\main\java\com\weyland\service\contract\CommandExecutor.java
+c:\Users\mihan\Desktop\t1_dz\starter\synthetic-human-core-starter\src\main\java\com\weyland\config\WeylandProperties.java
+c:\Users\mihan\Desktop\t1_dz\starter\synthetic-human-core-starter\src\main\java\com\weyland\domain\enums\CommandPriority.java
+c:\Users\mihan\Desktop\t1_dz\starter\synthetic-human-core-starter\src\main\java\com\weyland\handler\GlobalExceptionHandler.java
+c:\Users\mihan\Desktop\t1_dz\starter\synthetic-human-core-starter\src\main\java\com\weyland\domain\dto\ErrorResponse.java
+c:\Users\mihan\Desktop\t1_dz\starter\synthetic-human-core-starter\src\main\java\com\weyland\service\impl\CommandExecutorImpl.java
+c:\Users\mihan\Desktop\t1_dz\starter\synthetic-human-core-starter\src\main\java\com\weyland\domain\enums\AuditMode.java
+c:\Users\mihan\Desktop\t1_dz\starter\synthetic-human-core-starter\src\main\java\com\weyland\service\contract\CommandInfrastructureService.java
+c:\Users\mihan\Desktop\t1_dz\starter\synthetic-human-core-starter\src\main\java\com\weyland\domain\dto\Command.java
+c:\Users\mihan\Desktop\t1_dz\starter\synthetic-human-core-starter\src\main\java\com\weyland\aspect\WeylandAuditAspect.java
+c:\Users\mihan\Desktop\t1_dz\starter\synthetic-human-core-starter\src\main\java\com\weyland\config\WeylandAutoConfiguration.java
+c:\Users\mihan\Desktop\t1_dz\starter\synthetic-human-core-starter\src\main\java\com\weyland\HumanCoreStarterApplication.java
+c:\Users\mihan\Desktop\t1_dz\starter\synthetic-human-core-starter\src\main\java\com\weyland\service\impl\MetricServiceImpl.java
+c:\Users\mihan\Desktop\t1_dz\starter\synthetic-human-core-starter\src\main\java\com\weyland\annotation\WeylandWatchingYou.java
+c:\Users\mihan\Desktop\t1_dz\starter\synthetic-human-core-starter\src\main\java\com\weyland\service\contract\MetricService.java
+c:\Users\mihan\Desktop\t1_dz\starter\synthetic-human-core-starter\src\main\java\com\weyland\service\impl\CommandInfrastructureServiceImpl.java
